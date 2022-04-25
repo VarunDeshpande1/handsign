@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>yes.9bd2546a-c064-11ec-b312-6c2b5979c8c0.jpg</filename>
+	<path>C:\Users\varun\Tensorflow\workspace\images\collectedimages\yes.9bd2546a-c064-11ec-b312-6c2b5979c8c0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>204</ymin>
+			<xmax>222</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>
